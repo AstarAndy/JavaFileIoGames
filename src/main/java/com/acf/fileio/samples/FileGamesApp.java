@@ -55,6 +55,7 @@ public class FileGamesApp {
 	 * @return String The fully qualified file name
 	 */
 	private String getQualifiedFileName() {
+		
 		String result = "";
 		
 		Scanner keyInput = new Scanner(System.in);
